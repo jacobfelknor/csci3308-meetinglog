@@ -15,4 +15,7 @@ page to keep track of TODO items for our project.
 We also started talking about how usable we want our app to be. Currently, our platform is useless if no one is on it. We decided we want
 to be able to have our product be productive even if only you use it. We are shifting our focus from less of a social media site to more
 of a tool. Degree auditing came up, and also statistics on the university came up. We really want our project to be usable for a single
-person
+person. The one we really liked was a class scheduler with instructer information baked in. The big problem is getting this data.
+
+Another idea was discussed about alternative ideas, including a Twitter/other social media stats application to do analytics on a person's
+account.
