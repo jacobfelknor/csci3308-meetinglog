@@ -11,3 +11,8 @@ Finished details, Milestone 1 looking ready for submission. Small tasks settled 
 As a group, we decided to alter our framework to Node.js instead of Django. Although Jacob has experience in Django, we decided it was of
 best interest to the group to use Node.js since that is what our assignments and labs will most likley be using. We also set up a Trello
 page to keep track of TODO items for our project. 
+
+We also started talking about how usable we want our app to be. Currently, our platform is useless if no one is on it. We decided we want
+to be able to have our product be productive even if only you use it. We are shifting our focus from less of a social media site to more
+of a tool. Degree auditing came up, and also statistics on the university came up. We really want our project to be usable for a single
+person
