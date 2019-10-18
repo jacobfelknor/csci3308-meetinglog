@@ -19,3 +19,6 @@ person. The one we really liked was a class scheduler with instructer informatio
 
 Another idea was discussed about alternative ideas, including a Twitter/other social media stats application to do analytics on a person's
 account.
+
+# Tuesday, Oct 8
+The group discussed the usage of the application further and built the Trello up with prioritization of features and tasks. The group discussed approaches on designing and developing each of the features, and we believe it is in our best interest to work as a group through the list rather than independently take tasks for individuals. Otherwise, we are not certain that each of the features would work congruously.
