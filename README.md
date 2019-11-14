@@ -22,3 +22,18 @@ account.
 
 # Tuesday, Oct 8
 The group discussed the usage of the application further and built the Trello up with prioritization of features and tasks. The group discussed approaches on designing and developing each of the features, and we believe it is in our best interest to work as a group through the list rather than independently take tasks for individuals. Otherwise, we are not certain that each of the features would work congruously.
+
+# Tuesday, Oct 15
+We have begun work on some of the base features and discussed our technical details. Jacob ran through the process of installation of software needed to work on the project on each of our respective machines. We are doing "tutorial" sessions to ensure that we all gain a little experience with the software and language features. We received the files containing the data on classes and the process of parsing data from the files collected has been mostly completed.
+
+# Tuesday, Oct 22
+While the team was unable to meet, we discussed some feature development and established another meeting date when we would be able to continue working and learning about Django. Some discussion about the backend details occurred, and we are deciding how to handle the interaction of the class and calendar.
+
+# Friday, Oct 25
+The team met for a while during recitation and shared features that were in progress, namely the profile page, a prototype class search, the beginning of a calendar page, and a home page. The project is starting to have a strong foundation.
+
+# Tuesday, Oct 29
+The framework of the calendar portion is beginning to take shape. We have decided to use the the Google calendar API because it is so versatile and appropriate for this kind of scheduling. The Google calendar API is very visually appealing and will hopefully add a sleek and modern feel to the project. Additional features like class searching are fairly functional, and a requirement for classes added to match a database class name has been mostly fleshed out.
+
+# Tuesday, Nov 5
+A lot of the project is coming together and approaching a semi-functional state and we have done some work for the upcoming milestone. We are planning to handle the documentation of the website architecture as well as the wireframe for some of the front end. Our API as mentioned previously will just be the Google calendar API.
