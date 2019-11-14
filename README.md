@@ -37,3 +37,6 @@ The framework of the calendar portion is beginning to take shape. We have decide
 
 # Tuesday, Nov 5
 A lot of the project is coming together and approaching a semi-functional state and we have done some work for the upcoming milestone. We are planning to handle the documentation of the website architecture as well as the wireframe for some of the front end. Our API as mentioned previously will just be the Google calendar API.
+
+# Tuesday, Nov 12
+We met again in the engineering center as a group to continue working with Jacob in the Django architechure. Features that were being developed were improved to better work in unison and function cohesively. We are looking to get this website into a functional prototype phase.
