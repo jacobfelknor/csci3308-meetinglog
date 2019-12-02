@@ -41,6 +41,10 @@ A lot of the project is coming together and approaching a semi-functional state 
 # Tuesday, Nov 12
 We met again in the engineering center as a group to continue working with Jacob in the Django architechure. Features that were being developed were improved to better work in unison and function cohesively. We are looking to get this website into a functional prototype phase.
 
+
+# Tuesday, Nov 19
+The team continued working in Django and making progress on the database formatting. Some of the features are functional, and FCQ ratings for professors are being utilized to produce overall ratings for professors. Weighting and usage of scores is being evaluated to determine how we can create a general rating for the professors. We have begun a pie chart break down for the classes a professor teaches, to show what departments they generally have lectures for. Populating the calendar with user class selection data is now underway.
+
 # Monday, Dec 2
-Today we met to finalize some small parts of the project. Today we also worked on making the final presentation which we will present on Friday.
+Today we met to finalize some small parts of the project. Today we also worked on making the final presentation which we will present on Friday. Our calendar feature is being finalized, while it is not essential to the functionality of the rest of the core features of our site.
 
