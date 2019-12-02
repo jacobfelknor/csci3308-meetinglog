@@ -40,3 +40,7 @@ A lot of the project is coming together and approaching a semi-functional state 
 
 # Tuesday, Nov 12
 We met again in the engineering center as a group to continue working with Jacob in the Django architechure. Features that were being developed were improved to better work in unison and function cohesively. We are looking to get this website into a functional prototype phase.
+
+# Monday, Dec 2
+Today we met to finalize some small parts of the project. Today we also worked on making the final presentation which we will present on Friday.
+
