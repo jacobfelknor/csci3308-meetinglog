@@ -48,3 +48,6 @@ The team continued working in Django and making progress on the database formatt
 # Monday, Dec 2
 Today we met to finalize some small parts of the project. Today we also worked on making the final presentation which we will present on Friday. Our calendar feature is being finalized, while it is not essential to the functionality of the rest of the core features of our site.
 
+# Friday, Dec 6
+We meet about an hour before of final project presentation. During this meeting we finialized a couple pieces of our presentation and assigned speaking roles.
+
